@@ -102,7 +102,6 @@ POST http://localhost:3000/confirm/2
 Here are the sample outputs when running the project:  
 
 ![Output 1](/output/output_1.png)  
-![Output 1](/output/output_1.1.png) 
 ![Output 2](/output/output_2.png)  
 ![Output 3](/output/output_3.png)  
 ![Output 4](/output/output_4.png)  
